@@ -1,4 +1,4 @@
 # Tanujpractise
 Practising git
 <br>
-Author - Tanuj Laxmanna
+Author - Tanuj Laxmanna (Student)
